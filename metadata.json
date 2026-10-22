@@ -1,0 +1,6 @@
+{
+  "name": "ClipForge AI - Viral Video Clipping Studio",
+  "description": "Transform long-form videos into high-engagement short clips for TikTok, Shorts, and Reels with AI moment detection, smart framing, and subtitle styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
